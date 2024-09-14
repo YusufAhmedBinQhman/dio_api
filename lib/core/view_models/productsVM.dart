@@ -1,0 +1,5 @@
+class ProductsVM {
+  getProducts(){
+    
+  }  
+}
